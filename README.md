@@ -22,24 +22,27 @@ Solidity smart contract that accepts two user addresses. These addresses will be
 
 This is a basic smart contract setup that shows the use of the implemented functions such as  set up accounts, deposit, withdraw, balance check, last transaction address and amount the following images demonstrate  an example of the mentioned functions the rest of the transactions will be found in the (Execution_Results) folder
 
-#Set up accounts
+Set up accounts
 
 ![Set_up](Execution_Results/set_account.jpg)
 
 
-#1 eth Deposit and balance transactions  
+1 eth Deposit and balance transactions  
 
-![1eth_deposit](https://github.com/codan81/FinTech_finder/blob/main/Images/tx_hash.jpg)
+![1eth_deposit](Execution_Results/deposit_1eth.jpg)
 
-![1eth_balance](https://github.com/codan81/FinTech_finder/blob/main/Images/tx_hash.jpg)
+![1eth_balance](Execution_Results/1eth_balance.jpg)
 
 
-#10 eth withdraw and balance transaction  
+10 eth withdraw and balance transaction  
 
-![10eth_withdraw](https://github.com/codan81/FinTech_finder/blob/main/Images/tx_hash.jpg)
+![10eth_withdraw](Execution_Results/withdraw_10eth.jpg)
 
-![10eth_balance](https://github.com/codan81/FinTech_finder/blob/main/Images/tx_hash.jpg)
+![10eth_balance](Execution_Results/withddraw_10eth_balance.jpg)
 
+Last to withdraw and last withdraaw amount 
+
+![last 2 ](Execution_Results/accountbalance_&_lasttowithdraw.jpg)
 
 ---
 ## Contributors
